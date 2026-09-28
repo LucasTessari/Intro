@@ -7,12 +7,9 @@
 
 ## 🚀 Sobre mim  
 🎓 Estudante de **Engenharia da Computação**  
-🔬 Explorando **IoT, Robótica, IA e Visão Computacional**  
-🦾 Criador de um **Exoesqueleto com músculos artificiais pneumáticos**  
-🤖 Construindo um **Tanque Autônomo com LiDAR e IA**  
-🌱 Projetos aplicados à **agricultura inteligente e sustentabilidade**  
-🎶 Criatividade também em **DIY** como sistemas de som 360°  
-💼 Atuação em **suporte técnico e desenvolvimento de soluções reais**  
+🔬 Explorando **IoT, Robótica, IA e Visão Computacional**   
+🌱 Projetos aplicados à **agricultura inteligente e sustentabilidade**   
+💼 Atuando como **Tech Lead de Desenvolvimento e automação**  
 
 ---
 
@@ -57,24 +54,7 @@
 
 ---
 
-## 📂 Projetos em Destaque  
-
-### 🤖 Tanque Autônomo  
-- Navegação com **LiDAR + Visão Computacional**  
-- Retorno automático para estação de carga magnética  
-- Controle remoto via **LoRa**  
-- Processamento em **Raspberry Pi 4 + STM32**  
-
-### 🦾 Exoesqueleto com Músculos Artificiais  
-- Estrutura em **impressão 3D**  
-- Músculos artificiais com **ar comprimido + vácuo**  
-- Controle híbrido com **IMU + EMG + Arduino Nano**  
-- Coordenação via **IA em Raspberry Pi**  
-
-### 🌱 Agricultura Inteligente  
-- Lixeira inteligente com **sensores capacitivos e indutivos**  
-- Monitoramento de animais com **câmera 360° + IA**  
-- Análises ambientais em **tempo real**  
+## 📂 Projetos em Destaque   
 
 ### 📱 Aplicativo de Eventos  
 - Cadastro de usuários e **busca por geolocalização**  
