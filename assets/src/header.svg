@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="680" viewBox="0 0 880 680" role="img" aria-labelledby="t d">
+<title id="t">LTG-01 · Datasheet · Lucas Tessari De Giacometi</title>
+<desc id="d">Desenvolvedor de hardware e software e inventor. Estudante de Engenharia da Computação, explora IoT, robótica, IA e visão computacional, com projetos aplicados à agricultura inteligente e à sustentabilidade. Tech Lead de desenvolvimento e automação.</desc>
+<style>
+/*FONTS*/
+.m{font-family:'LTG Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.b{font-weight:600}
+.c{font-family:'LTG Cond','Arial Narrow',sans-serif;font-weight:700}
+.x{font-family:'LTG XCond','Arial Narrow',sans-serif;font-weight:800}
+.ink{fill:#16181A}.mut{fill:#5A5850}.acc{fill:#0B7A4B}
+</style>
+<rect x="0.5" y="0.5" width="879" height="679" rx="8" fill="#F2EFE6" stroke="#D9D4C7"/>
+
+<text class="x ink" x="40" y="84" font-size="44">LTG-01</text>
+<text class="m mut" x="162" y="84" font-size="12" letter-spacing="1.5">DATASHEET · REV. 2026</text>
+<text class="m ink" x="840" y="66" font-size="12" letter-spacing="1.5" text-anchor="end">LUCAS TESSARI</text>
+<text class="m ink" x="840" y="84" font-size="12" letter-spacing="1.5" text-anchor="end">DE GIACOMETI</text>
+<rect class="ink" x="40" y="98" width="800" height="3"/>
+
+<text class="c ink" x="40" y="166" font-size="54">Desenvolvedor de hardware</text>
+<text class="c ink" x="40" y="222" font-size="54">e software &amp; inventor.</text>
+<text class="m mut" x="40" y="262" font-size="15">Viajando, construindo, inventando e vivendo — sem tempo a perder.</text>
+
+<text class="x acc" x="40" y="318" font-size="20">1</text>
+<text class="c ink" x="56" y="318" font-size="18" letter-spacing="1">RECURSOS</text>
+<rect class="ink" x="40" y="330" width="384" height="1"/>
+<g class="m ink" font-size="14">
+  <rect class="acc" x="40" y="351.5" width="7" height="7"/>
+  <text x="57" y="360">Estudante de Engenharia da Computação</text>
+  <rect class="acc" x="40" y="381.5" width="7" height="7"/>
+  <text x="57" y="390">Explora IoT, robótica, IA e visão</text>
+  <text x="57" y="412">computacional</text>
+  <rect class="acc" x="40" y="433.5" width="7" height="7"/>
+  <text x="57" y="442">Projetos aplicados à agricultura</text>
+  <text x="57" y="464">inteligente e à sustentabilidade</text>
+  <rect class="acc" x="40" y="485.5" width="7" height="7"/>
+  <text x="57" y="494">Tech Lead de desenvolvimento e automação</text>
+</g>
+
+<text class="x acc" x="456" y="318" font-size="20">2</text>
+<text class="c ink" x="472" y="318" font-size="18" letter-spacing="1">APLICAÇÕES</text>
+<rect class="ink" x="456" y="330" width="384" height="1"/>
+<g class="m ink" font-size="14">
+  <rect x="456.75" y="352.25" width="5.5" height="5.5" fill="none" stroke="#16181A" stroke-width="1.5"/>
+  <text x="473" y="360">Agricultura inteligente</text>
+  <rect x="456.75" y="382.25" width="5.5" height="5.5" fill="none" stroke="#16181A" stroke-width="1.5"/>
+  <text x="473" y="390">Sustentabilidade</text>
+  <rect x="456.75" y="412.25" width="5.5" height="5.5" fill="none" stroke="#16181A" stroke-width="1.5"/>
+  <text x="473" y="420">Automação e robótica</text>
+  <rect x="456.75" y="442.25" width="5.5" height="5.5" fill="none" stroke="#16181A" stroke-width="1.5"/>
+  <text x="473" y="450">Visão computacional e IA</text>
+  <rect x="456.75" y="472.25" width="5.5" height="5.5" fill="none" stroke="#16181A" stroke-width="1.5"/>
+  <text x="473" y="480">Aplicativos web e mobile</text>
+</g>
+
+<text class="x acc" x="40" y="548" font-size="20">3</text>
+<text class="c ink" x="56" y="548" font-size="18" letter-spacing="1">DESCRIÇÃO</text>
+<rect class="ink" x="40" y="560" width="800" height="1"/>
+<g class="m ink" font-size="14">
+  <text x="40" y="590">O LTG-01 é um estudante de Engenharia da Computação que atua como Tech Lead de desenvolvimento</text>
+  <text x="40" y="614">e automação. Trabalha do microcontrolador à interface: explora IoT, robótica, IA e visão</text>
+  <text x="40" y="638">computacional, com projetos voltados à agricultura inteligente e à sustentabilidade.</text>
+</g>
+</svg>

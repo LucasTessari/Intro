@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="84" viewBox="0 0 880 84" role="img" aria-labelledby="t">
+<title id="t">7 · Medições: dados ao vivo do GitHub</title>
+<style>
+/*FONTS*/
+.m{font-family:'LTG Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.c{font-family:'LTG Cond','Arial Narrow',sans-serif;font-weight:700}
+.x{font-family:'LTG XCond','Arial Narrow',sans-serif;font-weight:800}
+.ink{fill:#16181A}.mut{fill:#5A5850}.acc{fill:#0B7A4B}
+</style>
+<rect x="0.5" y="0.5" width="879" height="83" rx="8" fill="#F2EFE6" stroke="#D9D4C7"/>
+<text class="x acc" x="40" y="48" font-size="20">7</text>
+<text class="c ink" x="56" y="48" font-size="18" letter-spacing="1">MEDIÇÕES</text>
+<text class="m mut" x="840" y="48" font-size="12" letter-spacing="1" text-anchor="end">DADOS AO VIVO DO GITHUB</text>
+<rect class="ink" x="40" y="60" width="800" height="1"/>
+</svg>
