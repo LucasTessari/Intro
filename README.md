@@ -1,95 +1,72 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=👋%20Olá,%20eu%20sou%20o%20Lucas%20Tessari%20De%20Giacometi%20&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff"/>
-</p>
-
----
-
-## 🚀 Sobre mim  
-🎓 Estudante de **Engenharia da Computação**  
-🔬 Explorando **IoT, Robótica, IA e Visão Computacional**   
-🌱 Projetos aplicados à **agricultura inteligente e sustentabilidade**   
-💼 Atuando como **Tech Lead de Desenvolvimento e automação**  
-
----
-
-## 🛠️ Tecnologias & Ferramentas  
-
-### 💻 Linguagens  
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-
-### ⚡ Frameworks & Bibliotecas  
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### 🌐 Web & Back-End  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🔌 Hardware & IoT  
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PIC%20MCU-003366?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-</p>
-
----
-
-## 📂 Projetos em Destaque   
-
-### 📱 Aplicativo de Eventos  
-- Cadastro de usuários e **busca por geolocalização**  
-- Desenvolvimento em **React Native + Node.js**  
-- Suporte para **web e mobile**  
-
----
-
-## 📊 Estatísticas  
+<!--
+  Perfil no formato de placa de circuito.
+  As imagens em assets/ são geradas a partir de assets/src/ com:
+    pip install fonttools brotli && python assets/src/build.py
+-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tessari&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tessari&theme=radical&hide_border=true" height="160"/>
+  <img src="assets/placa.svg" width="100%" alt="Lucas Tessari De Giacometi · hardware + software · inventor. Placa de circuito rev. A 2026 com o chip U1 (Engenharia da Computação), LEDs de energia e transmissão e trilhas de cobre."/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tessari&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="assets/sobre.svg" width="100%" alt="Sobre mim: estudante de Engenharia da Computação; explorando IoT, robótica, IA e visão computacional; projetos aplicados à agricultura inteligente e sustentabilidade; Tech Lead de desenvolvimento e automação."/>
 </p>
 
----
-
-## 📫 Onde me encontrar  
-
-<p>
-  <a href="mailto:lucas.tessari616@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/lucas-tessari-de-giacometi-a34b4b243" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+  <img src="assets/bom.svg" width="100%" alt="Lista de materiais. Linguagens: C, C++, Python, Java, JavaScript, PHP. Frameworks e bibliotecas: OpenCV, TensorFlow, PyTorch, React, Tailwind CSS, Bootstrap. Web e back-end: Node.js, HTML5, CSS3, MySQL. Hardware e IoT: Arduino, ESP32, STM32, PIC MCU, Raspberry Pi."/>
 </p>
+
+<p align="center">
+  <img src="assets/modulo.svg" width="100%" alt="Módulo em destaque: Aplicativo de Eventos, com cadastro de usuários e busca por geolocalização, desenvolvido em React Native e Node.js, com suporte para web e mobile."/>
+</p>
+
+<p align="center">
+  <img src="assets/testes.svg" width="100%" alt="Pontos de teste: dados ao vivo do GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasTessari&show_icons=true&locale=pt-br&bg_color=0F3D2E&title_color=D9B45A&text_color=EEF0E6&icon_color=D9B45A&border_color=1E5C45&border_radius=12" height="165" alt="Estatísticas do GitHub de LucasTessari"/>
+  <img src="https://streak-stats.demolab.com/?user=LucasTessari&locale=pt_BR&background=0F3D2E&border=1E5C45&stroke=1E5C45&ring=D9B45A&fire=FFB547&currStreakNum=EEF0E6&sideNums=EEF0E6&currStreakLabel=D9B45A&sideLabels=9FB8A9&dates=9FB8A9&border_radius=12" height="165" alt="Sequência de contribuições de LucasTessari"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTessari&layout=compact&locale=pt-br&bg_color=0F3D2E&title_color=D9B45A&text_color=EEF0E6&border_color=1E5C45&border_radius=12" height="165" alt="Linguagens mais usadas por LucasTessari"/>
+</p>
+
+<p align="center">
+  <img src="assets/conector.svg" width="100%" alt="Conector J2: onde me encontrar"/>
+</p>
+
+<p align="center">
+  <a href="mailto:lucas.tessari616@gmail.com"><img src="assets/email.svg" width="100%" alt="E-mail: lucas.tessari616@gmail.com"/></a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/lucas-tessari-de-giacometi-a34b4b243"><img src="assets/linkedin.svg" width="100%" alt="LinkedIn: lucas-tessari-de-giacometi"/></a>
+</p>
+
+<details>
+<summary>Versão em texto</summary>
+
+### Sobre mim
+- Estudante de **Engenharia da Computação**
+- Explorando **IoT, Robótica, IA e Visão Computacional**
+- Projetos aplicados à **agricultura inteligente e sustentabilidade**
+- Atuando como **Tech Lead de Desenvolvimento e Automação**
+
+### Tecnologias
+- **Linguagens:** C, C++, Python, Java, JavaScript, PHP
+- **Frameworks & bibliotecas:** OpenCV, TensorFlow, PyTorch, React, Tailwind CSS, Bootstrap
+- **Web & back-end:** Node.js, HTML5, CSS3, MySQL
+- **Hardware & IoT:** Arduino, ESP32, STM32, PIC MCU, Raspberry Pi
+
+### Projeto em destaque: Aplicativo de Eventos
+- Cadastro de usuários e busca por geolocalização
+- Desenvolvido em React Native + Node.js
+- Suporte para web e mobile
+
+### Contato
+- E-mail: [lucas.tessari616@gmail.com](mailto:lucas.tessari616@gmail.com)
+- LinkedIn: [lucas-tessari-de-giacometi](https://linkedin.com/in/lucas-tessari-de-giacometi-a34b4b243)
+
+</details>

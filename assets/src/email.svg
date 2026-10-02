@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="72" viewBox="0 0 880 72" role="img" aria-labelledby="t">
+<title id="t">E-mail: lucas.tessari616@gmail.com</title>
+<style>
+/*FONTS*/
+.m{font-family:'PCB Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.silk{fill:#EEF0E6}.mut{fill:#9FB8A9}.gold{fill:#D9B45A}
+</style>
+<rect x="1" y="1" width="878" height="70" rx="8" fill="#0F3D2E" stroke="#D9B45A" stroke-width="2"/>
+<path d="M2 36 H24" fill="none" stroke="#B9803A" stroke-width="3" opacity=".6"/>
+<rect class="gold" x="24" y="27" width="18" height="18"/>
+<text class="m mut" x="60" y="30" font-size="12" letter-spacing="2">PINO 1 · E-MAIL</text>
+<text class="m silk" x="60" y="54" font-size="17">lucas.tessari616@gmail.com</text>
+<text class="m silk" x="852" y="43" font-size="20" text-anchor="end">→</text>
+</svg>

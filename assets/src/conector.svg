@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="88" viewBox="0 0 880 88" role="img" aria-labelledby="t">
+<title id="t">J2 · Conector: onde me encontrar</title>
+<style>
+/*FONTS*/
+.m{font-family:'PCB Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.c{font-family:'PCB Cond','Arial Narrow',sans-serif;font-weight:700}
+.silk{fill:#EEF0E6}.mut{fill:#9FB8A9}.gold{fill:#D9B45A}
+</style>
+<rect x="1" y="1" width="878" height="86" rx="12" fill="#0F3D2E" stroke="#1E5C45" stroke-width="2"/>
+<text class="m mut" x="36" y="56" font-size="13" letter-spacing="3">J2 · CONECTOR</text>
+<text class="c silk" x="180" y="56" font-size="30">Onde me encontrar</text>
+<g class="gold">
+  <rect x="790" y="38" width="14" height="14"/><circle cx="827" cy="45" r="7"/>
+</g>
+</svg>

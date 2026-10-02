@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="270" viewBox="0 0 880 270" role="img" aria-labelledby="t d">
+<title id="t">Seção 01 · Sobre mim</title>
+<desc id="d">Estudante de Engenharia da Computação. Explorando IoT, robótica, IA e visão computacional. Projetos aplicados à agricultura inteligente e sustentabilidade. Tech Lead de desenvolvimento e automação.</desc>
+<style>
+/*FONTS*/
+.m{font-family:'PCB Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.c{font-family:'PCB Cond','Arial Narrow',sans-serif;font-weight:700}
+.silk{fill:#EEF0E6}.mut{fill:#9FB8A9}
+.ref{fill:none;stroke:#EEF0E6;stroke-width:1.5}
+</style>
+<rect x="1" y="1" width="878" height="268" rx="12" fill="#0F3D2E" stroke="#1E5C45" stroke-width="2"/>
+<text class="m mut" x="36" y="58" font-size="13" letter-spacing="3">SEÇÃO 01</text>
+<text class="c silk" x="130" y="58" font-size="30">Sobre mim</text>
+
+<g class="m silk">
+  <rect class="ref" x="36" y="91" width="52" height="26"/><text x="62" y="108.5" font-size="13" text-anchor="middle">J1</text>
+  <text x="108" y="109.5" font-size="15">Estudante de Engenharia da Computação</text>
+  <rect class="ref" x="36" y="131" width="52" height="26"/><text x="62" y="148.5" font-size="13" text-anchor="middle">U2</text>
+  <text x="108" y="149.5" font-size="15">Explorando IoT, Robótica, IA e Visão Computacional</text>
+  <rect class="ref" x="36" y="171" width="52" height="26"/><text x="62" y="188.5" font-size="13" text-anchor="middle">D3</text>
+  <text x="108" y="189.5" font-size="15">Projetos aplicados à agricultura inteligente e sustentabilidade</text>
+  <rect class="ref" x="36" y="211" width="52" height="26"/><text x="62" y="228.5" font-size="13" text-anchor="middle">Q1</text>
+  <text x="108" y="229.5" font-size="15">Tech Lead de desenvolvimento e automação</text>
+</g>
+</svg>

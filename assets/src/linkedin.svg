@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="72" viewBox="0 0 880 72" role="img" aria-labelledby="t">
+<title id="t">LinkedIn: lucas-tessari-de-giacometi</title>
+<style>
+/*FONTS*/
+.m{font-family:'PCB Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.silk{fill:#EEF0E6}.mut{fill:#9FB8A9}.gold{fill:#D9B45A}
+</style>
+<rect x="1" y="1" width="878" height="70" rx="8" fill="#0F3D2E" stroke="#D9B45A" stroke-width="2"/>
+<path d="M2 36 H24" fill="none" stroke="#B9803A" stroke-width="3" opacity=".6"/>
+<circle class="gold" cx="33" cy="36" r="9"/>
+<text class="m mut" x="60" y="30" font-size="12" letter-spacing="2">PINO 2 · LINKEDIN</text>
+<text class="m silk" x="60" y="54" font-size="17">lucas-tessari-de-giacometi</text>
+<text class="m silk" x="852" y="43" font-size="20" text-anchor="end">→</text>
+</svg>
