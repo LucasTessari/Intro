@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="410" viewBox="0 0 880 410" role="img" aria-labelledby="t d">
+<title id="t">Seção 02 · Lista de materiais</title>
+<desc id="d">Linguagens: C, C++, Python, Java, JavaScript, PHP. Frameworks e bibliotecas: OpenCV, TensorFlow, PyTorch, React, Tailwind CSS, Bootstrap. Web e back-end: Node.js, HTML5, CSS3, MySQL. Hardware e IoT: Arduino, ESP32, STM32, PIC MCU, Raspberry Pi.</desc>
+<style>
+/*FONTS*/
+.m{font-family:'PCB Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.c{font-family:'PCB Cond','Arial Narrow',sans-serif;font-weight:700}
+.silk{fill:#EEF0E6}.mut{fill:#9FB8A9}.gold{fill:#D9B45A}
+</style>
+<rect x="1" y="1" width="878" height="408" rx="12" fill="#0F3D2E" stroke="#1E5C45" stroke-width="2"/>
+<text class="m mut" x="36" y="58" font-size="13" letter-spacing="3">SEÇÃO 02</text>
+<text class="c silk" x="130" y="58" font-size="30">Lista de materiais</text>
+<text class="m mut" x="844" y="57" font-size="13" letter-spacing="2" text-anchor="end">BOM · 21 ITENS</text>
+<text class="m mut" x="36" y="100" font-size="13" letter-spacing="2">U1–U6 · LINGUAGENS</text>
+<g><rect class="gold" x="36.0" y="112" width="11" height="32" rx="2"/><rect x="45.0" y="112" width="35.6" height="32" fill="#151719"/><rect class="gold" x="78.6" y="112" width="11" height="32" rx="2"/><text class="m silk" x="59.0" y="133" font-size="14">C</text></g>
+<g><rect class="gold" x="99.6" y="112" width="11" height="32" rx="2"/><rect x="108.6" y="112" width="50.8" height="32" fill="#151719"/><rect class="gold" x="157.4" y="112" width="11" height="32" rx="2"/><text class="m silk" x="122.6" y="133" font-size="14">C++</text></g>
+<g><rect class="gold" x="178.4" y="112" width="11" height="32" rx="2"/><rect x="187.4" y="112" width="73.6" height="32" fill="#151719"/><rect class="gold" x="259.0" y="112" width="11" height="32" rx="2"/><text class="m silk" x="201.4" y="133" font-size="14">Python</text></g>
+<g><rect class="gold" x="280.0" y="112" width="11" height="32" rx="2"/><rect x="289.0" y="112" width="58.4" height="32" fill="#151719"/><rect class="gold" x="345.4" y="112" width="11" height="32" rx="2"/><text class="m silk" x="303.0" y="133" font-size="14">Java</text></g>
+<g><rect class="gold" x="366.4" y="112" width="11" height="32" rx="2"/><rect x="375.4" y="112" width="104.0" height="32" fill="#151719"/><rect class="gold" x="477.4" y="112" width="11" height="32" rx="2"/><text class="m silk" x="389.4" y="133" font-size="14">JavaScript</text></g>
+<g><rect class="gold" x="498.4" y="112" width="11" height="32" rx="2"/><rect x="507.4" y="112" width="50.8" height="32" fill="#151719"/><rect class="gold" x="556.2" y="112" width="11" height="32" rx="2"/><text class="m silk" x="521.4" y="133" font-size="14">PHP</text></g>
+<text class="m mut" x="36" y="178" font-size="13" letter-spacing="2">IC1–IC6 · FRAMEWORKS &amp; BIBLIOTECAS</text>
+<g><rect class="gold" x="36.0" y="190" width="11" height="32" rx="2"/><rect x="45.0" y="190" width="73.6" height="32" fill="#151719"/><rect class="gold" x="116.6" y="190" width="11" height="32" rx="2"/><text class="m silk" x="59.0" y="211" font-size="14">OpenCV</text></g>
+<g><rect class="gold" x="137.6" y="190" width="11" height="32" rx="2"/><rect x="146.6" y="190" width="104.0" height="32" fill="#151719"/><rect class="gold" x="248.6" y="190" width="11" height="32" rx="2"/><text class="m silk" x="160.6" y="211" font-size="14">TensorFlow</text></g>
+<g><rect class="gold" x="269.6" y="190" width="11" height="32" rx="2"/><rect x="278.6" y="190" width="81.2" height="32" fill="#151719"/><rect class="gold" x="357.8" y="190" width="11" height="32" rx="2"/><text class="m silk" x="292.6" y="211" font-size="14">PyTorch</text></g>
+<g><rect class="gold" x="378.8" y="190" width="11" height="32" rx="2"/><rect x="387.8" y="190" width="66.0" height="32" fill="#151719"/><rect class="gold" x="451.8" y="190" width="11" height="32" rx="2"/><text class="m silk" x="401.8" y="211" font-size="14">React</text></g>
+<g><rect class="gold" x="472.8" y="190" width="11" height="32" rx="2"/><rect x="481.8" y="190" width="119.2" height="32" fill="#151719"/><rect class="gold" x="599.0" y="190" width="11" height="32" rx="2"/><text class="m silk" x="495.8" y="211" font-size="14">Tailwind CSS</text></g>
+<g><rect class="gold" x="620.0" y="190" width="11" height="32" rx="2"/><rect x="629.0" y="190" width="96.4" height="32" fill="#151719"/><rect class="gold" x="723.4" y="190" width="11" height="32" rx="2"/><text class="m silk" x="643.0" y="211" font-size="14">Bootstrap</text></g>
+<text class="m mut" x="36" y="256" font-size="13" letter-spacing="2">J1–J4 · WEB &amp; BACK-END</text>
+<g><rect class="gold" x="36.0" y="268" width="11" height="32" rx="2"/><rect x="45.0" y="268" width="81.2" height="32" fill="#151719"/><rect class="gold" x="124.2" y="268" width="11" height="32" rx="2"/><text class="m silk" x="59.0" y="289" font-size="14">Node.js</text></g>
+<g><rect class="gold" x="145.2" y="268" width="11" height="32" rx="2"/><rect x="154.2" y="268" width="66.0" height="32" fill="#151719"/><rect class="gold" x="218.2" y="268" width="11" height="32" rx="2"/><text class="m silk" x="168.2" y="289" font-size="14">HTML5</text></g>
+<g><rect class="gold" x="239.2" y="268" width="11" height="32" rx="2"/><rect x="248.2" y="268" width="58.4" height="32" fill="#151719"/><rect class="gold" x="304.6" y="268" width="11" height="32" rx="2"/><text class="m silk" x="262.2" y="289" font-size="14">CSS3</text></g>
+<g><rect class="gold" x="325.6" y="268" width="11" height="32" rx="2"/><rect x="334.6" y="268" width="66.0" height="32" fill="#151719"/><rect class="gold" x="398.6" y="268" width="11" height="32" rx="2"/><text class="m silk" x="348.6" y="289" font-size="14">MySQL</text></g>
+<text class="m mut" x="36" y="334" font-size="13" letter-spacing="2">M1–M5 · HARDWARE &amp; IOT</text>
+<g><rect class="gold" x="36.0" y="346" width="11" height="32" rx="2"/><rect x="45.0" y="346" width="81.2" height="32" fill="#151719"/><rect class="gold" x="124.2" y="346" width="11" height="32" rx="2"/><text class="m silk" x="59.0" y="367" font-size="14">Arduino</text></g>
+<g><rect class="gold" x="145.2" y="346" width="11" height="32" rx="2"/><rect x="154.2" y="346" width="66.0" height="32" fill="#151719"/><rect class="gold" x="218.2" y="346" width="11" height="32" rx="2"/><text class="m silk" x="168.2" y="367" font-size="14">ESP32</text></g>
+<g><rect class="gold" x="239.2" y="346" width="11" height="32" rx="2"/><rect x="248.2" y="346" width="66.0" height="32" fill="#151719"/><rect class="gold" x="312.2" y="346" width="11" height="32" rx="2"/><text class="m silk" x="262.2" y="367" font-size="14">STM32</text></g>
+<g><rect class="gold" x="333.2" y="346" width="11" height="32" rx="2"/><rect x="342.2" y="346" width="81.2" height="32" fill="#151719"/><rect class="gold" x="421.4" y="346" width="11" height="32" rx="2"/><text class="m silk" x="356.2" y="367" font-size="14">PIC MCU</text></g>
+<g><rect class="gold" x="442.4" y="346" width="11" height="32" rx="2"/><rect x="451.4" y="346" width="119.2" height="32" fill="#151719"/><rect class="gold" x="568.6" y="346" width="11" height="32" rx="2"/><text class="m silk" x="465.4" y="367" font-size="14">Raspberry Pi</text></g>
+</svg>

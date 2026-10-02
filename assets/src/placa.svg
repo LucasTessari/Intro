@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="440" viewBox="0 0 880 440" role="img" aria-labelledby="t d">
+<title id="t">Lucas Tessari De Giacometi · placa de circuito rev. A 2026</title>
+<desc id="d">Hardware + software · inventor. Uma placa de circuito com o chip U1 (LTG, Engenharia da Computação), LEDs de energia e transmissão e trilhas de cobre.</desc>
+<defs>
+  <filter id="glow" x="-1" y="-1" width="3" height="3"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<style>
+/*FONTS*/
+.m{font-family:'PCB Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.c{font-family:'PCB Cond','Arial Narrow',sans-serif;font-weight:800}
+.silk{fill:#EEF0E6}.mut{fill:#9FB8A9}.gold{fill:#D9B45A}
+.cu{fill:none;stroke:#B9803A;stroke-width:3;stroke-linejoin:round;opacity:.6}
+.sig{fill:none;stroke:#F3DA8C;stroke-width:3;stroke-linecap:round}
+.s1{stroke-dasharray:18 642;animation:s1 3.2s linear infinite}
+.s2{stroke-dasharray:14 152;animation:s2 1.4s linear infinite}
+.pwr{animation:pwr 3s ease-in-out infinite}
+.tx{animation:tx 1.1s steps(1) infinite}
+@keyframes s1{from{stroke-dashoffset:0}to{stroke-dashoffset:-660}}
+@keyframes s2{from{stroke-dashoffset:0}to{stroke-dashoffset:-166}}
+@keyframes pwr{0%,100%{opacity:1}50%{opacity:.55}}
+@keyframes tx{0%{opacity:1}12%{opacity:.15}20%{opacity:1}34%{opacity:.15}58%{opacity:1}70%{opacity:.15}100%{opacity:1}}
+@media (prefers-reduced-motion:reduce){.s1,.s2,.pwr,.tx{animation:none}.sig{display:none}}
+</style>
+
+<path fill="#0F3D2E" fill-rule="evenodd" stroke="#1E5C45" stroke-width="2" d="M19 1 H861 A18 18 0 0 1 879 19 V421 A18 18 0 0 1 861 439 H19 A18 18 0 0 1 1 421 V19 A18 18 0 0 1 19 1 Z M23 31 a8 8 0 1 0 16 0 a8 8 0 1 0 -16 0 Z M841 31 a8 8 0 1 0 16 0 a8 8 0 1 0 -16 0 Z M23 409 a8 8 0 1 0 16 0 a8 8 0 1 0 -16 0 Z M841 409 a8 8 0 1 0 16 0 a8 8 0 1 0 -16 0 Z"/>
+<g fill="none" stroke="#D9B45A" stroke-width="5">
+  <circle cx="31" cy="31" r="10.5"/><circle cx="849" cy="31" r="10.5"/><circle cx="31" cy="409" r="10.5"/><circle cx="849" cy="409" r="10.5"/>
+</g>
+
+<!-- trilhas -->
+<g class="cu">
+  <path d="M630.3 314 V328 L608.3 350 H1"/>
+  <path d="M659 314 V334 L627 366 H1"/>
+  <path d="M687.7 314 V340 L645.7 382 H1"/>
+  <path d="M716.3 314 V330"/>
+  <path d="M745 314 V336 L769 360 H879"/>
+  <path d="M773.7 314 V326 L789.7 342 H879"/>
+  <path d="M802 142.3 H879"/>
+  <path d="M802 171 H879"/>
+  <path d="M802 199.7 H879"/>
+  <path d="M802 228.3 H826"/>
+  <path d="M802 257 H840"/>
+  <path d="M802 285.7 H826"/>
+  <path d="M602 142.3 H584"/>
+  <path d="M602 171 H568"/>
+  <path d="M602 199.7 H584"/>
+  <path d="M602 228.3 H568"/>
+  <path d="M602 257 H584"/>
+  <path d="M602 285.7 H568"/>
+  <path d="M630.3 114 V98"/>
+  <path d="M659 114 V96 L637 74 V70"/>
+  <path d="M745 114 V96 L751 90 V70"/>
+  <path d="M773.7 114 V100 L799.7 74 H832"/>
+</g>
+<path class="sig s1" d="M630.3 314 V328 L608.3 350 H1"/>
+<path class="sig s2" d="M745 314 V336 L769 360 H879"/>
+
+<!-- vias -->
+<g>
+  <circle class="gold" cx="716.3" cy="334" r="5"/><circle cx="716.3" cy="334" r="2" fill="#0A2C21"/>
+  <circle class="gold" cx="826" cy="228.3" r="5"/><circle cx="826" cy="228.3" r="2" fill="#0A2C21"/>
+  <circle class="gold" cx="840" cy="257" r="5"/><circle cx="840" cy="257" r="2" fill="#0A2C21"/>
+  <circle class="gold" cx="826" cy="285.7" r="5"/><circle cx="826" cy="285.7" r="2" fill="#0A2C21"/>
+  <circle class="gold" cx="584" cy="142.3" r="5"/><circle cx="584" cy="142.3" r="2" fill="#0A2C21"/>
+  <circle class="gold" cx="568" cy="171" r="5"/><circle cx="568" cy="171" r="2" fill="#0A2C21"/>
+  <circle class="gold" cx="584" cy="199.7" r="5"/><circle cx="584" cy="199.7" r="2" fill="#0A2C21"/>
+  <circle class="gold" cx="568" cy="228.3" r="5"/><circle cx="568" cy="228.3" r="2" fill="#0A2C21"/>
+  <circle class="gold" cx="584" cy="257" r="5"/><circle cx="584" cy="257" r="2" fill="#0A2C21"/>
+  <circle class="gold" cx="568" cy="285.7" r="5"/><circle cx="568" cy="285.7" r="2" fill="#0A2C21"/>
+  <circle class="gold" cx="630.3" cy="96" r="5"/><circle cx="630.3" cy="96" r="2" fill="#0A2C21"/>
+  <circle class="gold" cx="832" cy="74" r="5"/><circle cx="832" cy="74" r="2" fill="#0A2C21"/>
+</g>
+
+<!-- fiduciais -->
+<circle cx="540" cy="36" r="8" fill="#0A2C21"/><circle class="gold" cx="540" cy="36" r="4"/>
+<circle cx="560" cy="412" r="8" fill="#0A2C21"/><circle class="gold" cx="560" cy="412" r="4"/>
+
+<!-- serigrafia -->
+<text class="m mut" x="60" y="96" font-size="13" letter-spacing="3">PCB · REV A · 2026</text>
+<text class="c silk" x="60" y="172" font-size="72" letter-spacing="1">LUCAS TESSARI</text>
+<text class="c silk" x="60" y="240" font-size="72" letter-spacing="1">DE GIACOMETI</text>
+<text class="m silk" x="60" y="284" font-size="16" letter-spacing="2">HARDWARE + SOFTWARE · INVENTOR</text>
+<text class="m mut" x="820" y="420" font-size="12" letter-spacing="2" text-anchor="end">FEITO NO BRASIL</text>
+
+<!-- U1 -->
+<text class="m silk" x="588" y="112" font-size="13" letter-spacing="2">U1</text>
+<g class="gold">
+  <rect x="626.3" y="114" width="8" height="14"/><rect x="655" y="114" width="8" height="14"/><rect x="683.7" y="114" width="8" height="14"/><rect x="712.3" y="114" width="8" height="14"/><rect x="741" y="114" width="8" height="14"/><rect x="769.7" y="114" width="8" height="14"/>
+  <rect x="626.3" y="300" width="8" height="14"/><rect x="655" y="300" width="8" height="14"/><rect x="683.7" y="300" width="8" height="14"/><rect x="712.3" y="300" width="8" height="14"/><rect x="741" y="300" width="8" height="14"/><rect x="769.7" y="300" width="8" height="14"/>
+  <rect x="602" y="138.3" width="14" height="8"/><rect x="602" y="167" width="14" height="8"/><rect x="602" y="195.7" width="14" height="8"/><rect x="602" y="224.3" width="14" height="8"/><rect x="602" y="253" width="14" height="8"/><rect x="602" y="281.7" width="14" height="8"/>
+  <rect x="788" y="138.3" width="14" height="8"/><rect x="788" y="167" width="14" height="8"/><rect x="788" y="195.7" width="14" height="8"/><rect x="788" y="224.3" width="14" height="8"/><rect x="788" y="253" width="14" height="8"/><rect x="788" y="281.7" width="14" height="8"/>
+</g>
+<rect x="616" y="128" width="172" height="172" rx="4" fill="#151719"/>
+<circle cx="632" cy="144" r="5" fill="#2C3034"/>
+<text class="c" x="630" y="266" font-size="46" fill="#D7D9D2">LTG</text>
+<text class="m" x="630" y="286" font-size="11" letter-spacing="1.5" fill="#8E948C">ENG. COMPUTAÇÃO</text>
+
+<!-- LEDs -->
+<g class="pwr">
+  <circle cx="637" cy="63" r="12" fill="#6BFF8F" opacity=".5" filter="url(#glow)"/>
+  <rect x="630" y="56" width="14" height="14" rx="3" fill="#6BFF8F"/>
+</g>
+<text class="m silk" x="654" y="68" font-size="13" letter-spacing="2">D1 PWR</text>
+<g class="tx">
+  <circle cx="751" cy="63" r="12" fill="#FFB547" opacity=".5" filter="url(#glow)"/>
+  <rect x="744" y="56" width="14" height="14" rx="3" fill="#FFB547"/>
+</g>
+<text class="m silk" x="768" y="68" font-size="13" letter-spacing="2">D2 TX</text>
+</svg>

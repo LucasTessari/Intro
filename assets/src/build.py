@@ -26,9 +26,8 @@ CACHE = SRC / ".fonts"
 
 # família usada nos modelos -> (consulta do Google Fonts, peso CSS)
 FONTS = {
-    "LTG Mono": [("IBM+Plex+Mono:wght@400", 400), ("IBM+Plex+Mono:wght@600", 600)],
-    "LTG Cond": [("Archivo:wdth,wght@75,700", 700)],
-    "LTG XCond": [("Archivo:wdth,wght@62.5,800", 800)],
+    "PCB Mono": [("Share+Tech+Mono", 400)],
+    "PCB Cond": [("Archivo:wdth,wght@75,700", 700), ("Archivo:wdth,wght@75,800", 800)],
 }
 
 PLACEHOLDER = "/*FONTS*/"

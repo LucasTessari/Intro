@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="88" viewBox="0 0 880 88" role="img" aria-labelledby="t">
+<title id="t">Seção 04 · Pontos de teste: dados ao vivo do GitHub</title>
+<style>
+/*FONTS*/
+.m{font-family:'PCB Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.c{font-family:'PCB Cond','Arial Narrow',sans-serif;font-weight:700}
+.silk{fill:#EEF0E6}.mut{fill:#9FB8A9}
+</style>
+<rect x="1" y="1" width="878" height="86" rx="12" fill="#0F3D2E" stroke="#1E5C45" stroke-width="2"/>
+<text class="m mut" x="36" y="56" font-size="13" letter-spacing="3">SEÇÃO 04</text>
+<text class="c silk" x="130" y="56" font-size="30">Pontos de teste</text>
+<text class="m mut" x="844" y="55" font-size="13" letter-spacing="2" text-anchor="end">DADOS AO VIVO DO GITHUB</text>
+</svg>
