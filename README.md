@@ -2,6 +2,7 @@
   Perfil no formato de placa de circuito.
   As imagens em assets/ são geradas a partir de assets/src/ com:
     pip install fonttools brotli && python assets/src/build.py
+  Para mudar um texto, edite o modelo em assets/src/ e rode o script de novo.
 -->
 
 <p align="center">
