@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="292" viewBox="0 0 880 292" role="img" aria-labelledby="t d">
+<title id="t">Seção 03 · Módulo em destaque: Aplicativo de Eventos</title>
+<desc id="d">Cadastro de usuários e busca por geolocalização. Desenvolvido em React Native e Node.js. Suporte para web e mobile.</desc>
+<style>
+/*FONTS*/
+.m{font-family:'PCB Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.c{font-family:'PCB Cond','Arial Narrow',sans-serif;font-weight:700}
+.silk{fill:#EEF0E6}.mut{fill:#9FB8A9}.gold{fill:#D9B45A}
+</style>
+<rect x="1" y="1" width="878" height="290" rx="12" fill="#0F3D2E" stroke="#1E5C45" stroke-width="2"/>
+<text class="m mut" x="36" y="58" font-size="13" letter-spacing="3">SEÇÃO 03</text>
+<text class="c silk" x="130" y="58" font-size="30">Módulo em destaque</text>
+
+<rect x="36" y="84" width="808" height="180" rx="8" fill="#134A38" stroke="#9FB8A9" stroke-width="1.5" stroke-dasharray="6 5"/>
+<g class="gold">
+  <rect x="60" y="104" width="12" height="12"/>
+  <circle cx="92" cy="110" r="6"/><circle cx="112" cy="110" r="6"/><circle cx="132" cy="110" r="6"/><circle cx="152" cy="110" r="6"/><circle cx="172" cy="110" r="6"/>
+</g>
+<text class="m mut" x="820" y="115" font-size="13" letter-spacing="2" text-anchor="end">MOD1</text>
+<text class="c silk" x="60" y="160" font-size="28">Aplicativo de Eventos</text>
+<g class="m silk" font-size="15">
+  <text x="60" y="194">— Cadastro de usuários e busca por geolocalização</text>
+  <text x="60" y="218">— Desenvolvido em React Native + Node.js</text>
+  <text x="60" y="242">— Suporte para web e mobile</text>
+</g>
+</svg>

@@ -1,17 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="64" viewBox="0 0 880 64" role="img" aria-labelledby="t">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="72" viewBox="0 0 880 72" role="img" aria-labelledby="t">
 <title id="t">LinkedIn: lucas-tessari-de-giacometi</title>
 <style>
 /*FONTS*/
-.m{font-family:'LTG Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
-.b{font-weight:600}
-.ink{fill:#16181A}.mut{fill:#5A5850}.acc{fill:#0B7A4B}
+.m{font-family:'PCB Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.silk{fill:#EEF0E6}.mut{fill:#9FB8A9}.gold{fill:#D9B45A}
 </style>
-<rect x="1" y="1" width="878" height="62" rx="6" fill="#F2EFE6" stroke="#16181A" stroke-width="2"/>
-<path class="acc" d="M7 1 H64 V63 H7 A6 6 0 0 1 1 57 V7 A6 6 0 0 1 7 1 Z"/>
-<g fill="none" stroke="#F2EFE6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(20 20)">
-  <path d="M10 14 a5 5 0 0 0 7.1 0 l4 -4 a5 5 0 0 0 -7.1 -7.1 l-1.2 1.2"/>
-  <path d="M14 10 a5 5 0 0 0 -7.1 0 l-4 4 a5 5 0 0 0 7.1 7.1 l1.2 -1.2"/>
-</g>
-<text class="m ink" x="88" y="38" font-size="16">lucas-tessari-de-giacometi</text>
-<text class="m b mut" x="852" y="37" font-size="12" letter-spacing="1.5" text-anchor="end">LINKEDIN  →</text>
+<rect x="1" y="1" width="878" height="70" rx="8" fill="#0F3D2E" stroke="#D9B45A" stroke-width="2"/>
+<path d="M2 36 H24" fill="none" stroke="#B9803A" stroke-width="3" opacity=".6"/>
+<circle class="gold" cx="33" cy="36" r="9"/>
+<text class="m mut" x="60" y="30" font-size="12" letter-spacing="2">PINO 2 · LINKEDIN</text>
+<text class="m silk" x="60" y="54" font-size="17">lucas-tessari-de-giacometi</text>
+<text class="m silk" x="852" y="43" font-size="20" text-anchor="end">→</text>
 </svg>
